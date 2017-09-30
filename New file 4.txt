@@ -1,1 +1,2 @@
 Now I add a file to the second branch.
+Now I make changes in master branch.

@@ -1,3 +1,4 @@
 First steps with gitbash
 Successful
 I will make a conflict.
+I have successfully added a file
